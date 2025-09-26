@@ -28,7 +28,6 @@ import org.junit.Test
 import java.text.NumberFormat
 
 
-@Ignore("Skipping instrumentation tests temporarily")
 class TipUITests {
 
     @get:Rule
