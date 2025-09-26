@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <!-- Obras de arte -->
+    <string name="art_title_1">La noche estrellada</string>
+    <string name="art_artist_1">Vincent van Gogh</string>
+    <string name="art_year_1">1889</string>
+    <string name="art_title_2">El grito</string>
+    <string name="art_artist_2">Edvard Munch</string>
+    <string name="art_year_2">1893</string>
+    <string name="art_title_3">La persistencia de la memoria</string>
+    <string name="art_artist_3">Salvador Dalí</string>
+    <string name="art_year_3">1931</string>
+</resources>

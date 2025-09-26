@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Colores personalizados elegantes para ArtSpace -->
+    <color name="artspace_background_light">#F5F3F0</color>
+    <color name="artspace_background_dark">#23212B</color>
+    <color name="artspace_accent">#A084E8</color>
+    <color name="artspace_card_light">#FFFFFF</color>
+    <color name="artspace_card_dark">#2D2B3A</color>
+    <color name="artspace_button_light">#A084E8</color>
+    <color name="artspace_button_dark">#6C63FF</color>
+    <color name="artspace_button_text_light">#FFFFFF</color>
+    <color name="artspace_button_text_dark">#FFFFFF</color>
+</resources>
